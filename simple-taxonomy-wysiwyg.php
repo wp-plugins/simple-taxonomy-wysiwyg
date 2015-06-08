@@ -5,7 +5,7 @@
  * Description: This is a very simple and lightweight plugin that will convert the taxonomy/category description textarea to a WYSIWYG (TinyMCE).
  * Version: 1.3
  * Author: Earl Evan Amante
- * Author URI: https://github.com/earlamante
+ * Author URI: https://profiles.wordpress.org/raeven
  * License: GPL2
  */
 
